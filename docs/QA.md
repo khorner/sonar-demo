@@ -28,3 +28,6 @@ There are three approaches in this space:
 ## Sales process
 - What could you do to make a stronger pitch?
   - Discover specific findings from the Code Red that Shopify uncovered and SonarQube already has. Build up the Code Red could have been avoided angle.
+
+## Demo infra
+- Public repo vs. Private: Only public is supported in SonarCloud free
