@@ -1,5 +1,6 @@
 # order_confirmation_controller.rb
 # AI-generated scaffold - Shopify Order Confirmation Webhook Handler
+# This controller handles incoming webhooks from Shopify when an order is confirmed.
 
 require 'openssl'
 require 'json'
