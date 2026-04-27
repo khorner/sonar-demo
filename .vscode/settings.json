@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "khorner",
+        "projectKey": "khorner_sonar-demo"
+    }
+}
