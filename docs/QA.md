@@ -17,6 +17,9 @@ There are three approaches in this space:
 
 
 ## Developer process / CICD
+GitHub's secret scanning flagged the fictional Shopify token as a real secret.
+**Note for the demo:** this is a legitimate talking point if it comes up. GitHub caught the hardcoded secret at push. Sonar catches it before the developer ever commits. The gate Sonar provides is earlier in the workflow than GitHub's own protection.
+
 - Developer Behavior vs. Batch processing
 
 ## AI / Glasswing
